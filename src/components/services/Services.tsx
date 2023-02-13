@@ -2,8 +2,6 @@ import React from 'react';
 
 export const Services = () => {
     return (
-        <div>
-
-        </div>
+        <section id={'services'}>Services</section>
     );
 };

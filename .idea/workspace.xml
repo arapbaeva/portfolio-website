@@ -4,9 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da9b93e2-faed-4e12-b223-4d14288b889b" name="Changes" comment="added experience">
-      <change beforePath="$PROJECT_DIR$/src/components/services/Services.module.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/services/Services.tsx" beforeDir="false" />
+    <list default="true" id="da9b93e2-faed-4e12-b223-4d14288b889b" name="Changes" comment="delete service component">
+      <change afterPath="$PROJECT_DIR$/src/components/article/Article.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/contact/Contact.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/contact/Contact.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/contact/Contact.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/contact/Contact.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/header/HeaderSocials.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/HeaderSocials.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/portfolio/Portfolio.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/portfolio/Portfolio.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/portfolio/Portfolio.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/portfolio/Portfolio.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,10 +24,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="TypeScript JSX File" />
         <option value="TypeScript File" />
         <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="TypeScript JSX File" />
       </list>
     </option>
   </component>
@@ -79,7 +87,9 @@
       <updated>1675699164614</updated>
       <workItem from="1675699169472" duration="7600000" />
       <workItem from="1675750910962" duration="29710000" />
-      <workItem from="1676305224566" duration="1654000" />
+      <workItem from="1676305224566" duration="11461000" />
+      <workItem from="1676450201532" duration="463000" />
+      <workItem from="1677693714376" duration="7502000" />
     </task>
     <task id="LOCAL-00001" summary="added experience">
       <created>1676307111875</created>
@@ -88,7 +98,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676307111875</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="delete service component">
+      <created>1676307165459</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676307165459</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,7 +124,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added experience" />
-    <option name="LAST_COMMIT_MESSAGE" value="added experience" />
+    <MESSAGE value="delete service component" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete service component" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

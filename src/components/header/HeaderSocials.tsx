@@ -1,5 +1,5 @@
 import React from 'react'
-import {BsGithub, BsLinkedin} from 'react-icons/bs'
+import {BsLinkedin} from 'react-icons/bs'
 import {FaGithub} from "react-icons/fa";
 import style from './Header.module.css'
 

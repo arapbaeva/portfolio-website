@@ -4,12 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da9b93e2-faed-4e12-b223-4d14288b889b" name="Changes" comment="added styles for Contact component">
+    <list default="true" id="da9b93e2-faed-4e12-b223-4d14288b889b" name="Changes" comment="added emailjs for contact">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/contact/Contact.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/contact/Contact.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/contact/Contact.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/contact/Contact.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/footer/Footer.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/footer/Footer.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/footer/Footer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/footer/Footer.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/header/Header.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/Header.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/header/HeaderSocials.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/HeaderSocials.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/nav/Nav.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/nav/Nav.module.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +102,7 @@
       <workItem from="1675750910962" duration="29710000" />
       <workItem from="1676305224566" duration="11461000" />
       <workItem from="1676450201532" duration="463000" />
-      <workItem from="1677693714376" duration="12468000" />
+      <workItem from="1677693714376" duration="19367000" />
     </task>
     <task id="LOCAL-00001" summary="added experience">
       <created>1676307111875</created>
@@ -124,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677704317478</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="added emailjs for contact">
+      <created>1677794085468</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1677794085468</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,7 +153,8 @@
     <MESSAGE value="added experience" />
     <MESSAGE value="delete service component" />
     <MESSAGE value="added styles for Contact component" />
-    <option name="LAST_COMMIT_MESSAGE" value="added styles for Contact component" />
+    <MESSAGE value="added emailjs for contact" />
+    <option name="LAST_COMMIT_MESSAGE" value="added emailjs for contact" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

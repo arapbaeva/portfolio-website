@@ -3,6 +3,7 @@ import {BsLinkedin} from 'react-icons/bs'
 import {FaGithub} from "react-icons/fa";
 import style from './Header.module.css'
 import {SiCodewars} from "react-icons/si";
+import '../../App.module.css'
 
 
 export const HeaderSocials = () => {

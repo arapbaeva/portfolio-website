@@ -1,7 +1,10 @@
 import React from 'react';
 import s from '../../App.module.css'
 import style from './Portfolio.module.css'
-import IMG from '../../assets/bgphoto_.png'
+import IMG1 from '../../assets/social.jpg'
+import IMG2 from '../../assets/card.jpg'
+import IMG3 from '../../assets/task.jpg'
+
 
 
 type DataType = {
@@ -16,24 +19,24 @@ export const Portfolio = () => {
 const data: DataType[] = [
     {
         id: 1,
-        image: IMG,
+        image: IMG1,
         title: 'Social Network',
-        github: 'https://github.com',
-        demo: 'https://dribbble.com'
+        github: 'https://github.com/arapbaeva/samurai-way-main',
+        demo: 'https://arapbaeva.github.io/samurai-way-main/'
     },
     {
         id: 2,
-        image: IMG,
-        title: 'Friday Project',
-        github: 'https://github.com',
-        demo: 'https://dribbble.com'
+        image: IMG2,
+        title: 'Cards Trainer (with team)',
+        github: 'https://github.com/ksenia-eremenko/cards-friday',
+        demo: 'https://ksenia-eremenko.github.io/cards-friday/#/packs'
     },
     {
         id: 3,
-        image: IMG,
-        title: 'Bolot Sam',
-        github: 'https://github.com',
-        demo: 'https://dribbble.com'
+        image: IMG3,
+        title: 'Task Manager Desk',
+        github: 'https://github.com/arapbaeva/task-manager-desk',
+        demo: 'https://arapbaeva.github.io/'
     }
 ]
     return (

@@ -4,6 +4,7 @@ import {CTA} from './CTA'
 import ME from '../../assets/bgphoto_ _.png'
 import {HeaderSocials} from "./HeaderSocials";
 import s from "../../App.module.css"
+import '../../App.module.css'
 
 
 export const Header = () => {

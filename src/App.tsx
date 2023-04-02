@@ -10,17 +10,17 @@ import {ParticlesContainer} from "./components/Particle/Particle";
 import style from './App.module.css'
 
 function App() {
-  return (
-    <div className={style.container}>
-    <ParticlesContainer/>
-     <Header/>
-      <Nav/>
-      <Experience/>
-      <Portfolio/>
-      <Contact/>
-      <Footer/>
-</div>
-  );
+    return (
+        <div className={style.container}>
+            <ParticlesContainer/>
+            <Header/>
+            <Nav/>
+            <Experience/>
+            <Portfolio/>
+            <Contact/>
+            <Footer/>
+        </div>
+    );
 }
 
 export default App;

@@ -6,9 +6,8 @@ import IMG2 from '../../assets/card.jpg'
 import IMG3 from '../../assets/task.jpg'
 
 
-
 type DataType = {
-    id:number,
+    id: number,
     image: string,
     title: string,
     github: string,
@@ -16,29 +15,29 @@ type DataType = {
 }
 export const Portfolio = () => {
 
-const data: DataType[] = [
-    {
-        id: 1,
-        image: IMG1,
-        title: 'Social Network',
-        github: 'https://github.com/arapbaeva/samurai-way-main',
-        demo: 'https://arapbaeva.github.io/samurai-way-main/'
-    },
-    {
-        id: 2,
-        image: IMG2,
-        title: 'Cards Trainer (with team)',
-        github: 'https://github.com/ksenia-eremenko/cards-friday',
-        demo: 'https://ksenia-eremenko.github.io/cards-friday/#/packs'
-    },
-    {
-        id: 3,
-        image: IMG3,
-        title: 'Task Manager Desk',
-        github: 'https://github.com/arapbaeva/task-manager-desk',
-        demo: 'https://arapbaeva.github.io/'
-    }
-]
+    const data: DataType[] = [
+        {
+            id: 1,
+            image: IMG1,
+            title: 'Social Network',
+            github: 'https://github.com/arapbaeva/samurai-way-main',
+            demo: 'https://arapbaeva.github.io/samurai-way-main/'
+        },
+        {
+            id: 2,
+            image: IMG2,
+            title: 'Cards Trainer (with team)',
+            github: 'https://github.com/ksenia-eremenko/cards-friday',
+            demo: 'https://ksenia-eremenko.github.io/cards-friday/#/packs'
+        },
+        {
+            id: 3,
+            image: IMG3,
+            title: 'Task Manager Desk',
+            github: 'https://github.com/arapbaeva/task-manager-desk',
+            demo: 'https://arapbaeva.github.io/'
+        }
+    ]
     return (
         <section id={'portfolio'}>
             <h5>My Recent Work</h5>

@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="da9b93e2-faed-4e12-b223-4d14288b889b" name="Changes" comment="added emailjs for contact">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/footer/Footer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/footer/Footer.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/header/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/Header.tsx" afterDir="false" />
@@ -109,7 +110,7 @@
       <workItem from="1677987923283" duration="675000" />
       <workItem from="1678001200425" duration="309000" />
       <workItem from="1680393673269" duration="2921000" />
-      <workItem from="1680399574457" duration="4393000" />
+      <workItem from="1680399574457" duration="5659000" />
     </task>
     <task id="LOCAL-00001" summary="added experience">
       <created>1676307111875</created>

@@ -4,6 +4,7 @@ import style from './Portfolio.module.css'
 import IMG1 from '../../assets/social.jpg'
 import IMG2 from '../../assets/card.jpg'
 import IMG3 from '../../assets/task.jpg'
+import IMG4 from '../../assets/marketPlace.jpg'
 
 
 type DataType = {
@@ -36,6 +37,12 @@ export const Portfolio = () => {
             title: 'Task Manager Desk',
             github: 'https://github.com/arapbaeva/task-manager-desk',
             demo: 'https://arapbaeva.github.io/'
+        }, {
+            id: 4,
+            image: IMG4,
+            title: 'MarketPlace',
+            github: 'https://github.com/junior-frontend-13-04/MarketplaceHub-RentalAndSalesHub-',
+            demo: 'https://junior-frontend-13-04.github.io/'
         }
     ]
     return (

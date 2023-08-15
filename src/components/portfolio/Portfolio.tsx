@@ -36,13 +36,13 @@ export const Portfolio = () => {
             image: IMG3,
             title: 'Task Manager Desk',
             github: 'https://github.com/arapbaeva/task-manager-desk',
-            demo: 'https://arapbaeva.github.io/'
+            demo: 'https://arapbaeva.github.io/task-manager-desk/'
         }, {
             id: 4,
             image: IMG4,
             title: 'MarketPlace',
             github: 'https://github.com/junior-frontend-13-04/MarketplaceHub-RentalAndSalesHub-',
-            demo: 'https://junior-frontend-13-04.github.io/'
+            demo: 'https://junior-frontend-13-04.github.io/MarketplaceHub-RentalAndSalesHub-/'
         }
     ]
     return (

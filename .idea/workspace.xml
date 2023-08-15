@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da9b93e2-faed-4e12-b223-4d14288b889b" name="Changes" comment="added new project field">
+    <list default="true" id="da9b93e2-faed-4e12-b223-4d14288b889b" name="Changes" comment="added current cv">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/portfolio/Portfolio.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/portfolio/Portfolio.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,25 +35,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/it-incubator/social/samurai-way-main&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.externalResources&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;C:\\portfolio-website\\node_modules\\typescript\\lib&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/portfolio-website",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "yarn",
+    "settings.editor.selected.configurable": "preferences.externalResources",
+    "ts.external.directory.path": "C:\\portfolio-website\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\it-incubator\portfolio-website\src\components\header" />
@@ -62,6 +63,7 @@
       <recent name="C:\it-incubator\portfolio-website\src\footer" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\portfolio-website\src\assets" />
       <recent name="C:\it-incubator\portfolio-website\src\components\header" />
       <recent name="C:\it-incubator\portfolio-website\src\components\header\headerSocials" />
       <recent name="C:\it-incubator\portfolio-website\src\components\header\cta" />
@@ -110,6 +112,8 @@
       <workItem from="1681617970603" duration="1328000" />
       <workItem from="1681625154239" duration="6716000" />
       <workItem from="1682053396667" duration="3015000" />
+      <workItem from="1685610852151" duration="824000" />
+      <workItem from="1692102605840" duration="312000" />
     </task>
     <task id="LOCAL-00001" summary="added experience">
       <created>1676307111875</created>
@@ -160,7 +164,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682058863463</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="added current cv">
+      <created>1685611055356</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1685611055356</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -185,7 +196,8 @@
     <MESSAGE value="fixed bugs" />
     <MESSAGE value="added new cv, modified tsignore" />
     <MESSAGE value="added new project field" />
-    <option name="LAST_COMMIT_MESSAGE" value="added new project field" />
+    <MESSAGE value="added current cv" />
+    <option name="LAST_COMMIT_MESSAGE" value="added current cv" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
